@@ -17,6 +17,7 @@ services:
   ghost:
     image: ghost:${GHOST_IMAGE_TAG}
     environment:
+      NODE_ENV: ${ENVIRONMENT:-production}
       url: ${BLOG_URL}
       database__client: mysql
       database__connection__host: mariadb
@@ -37,6 +38,7 @@ services:
       - type: bind
         source: ${GHOST_HOST_PATH}
         target: /var/lib/ghost/content
+      - '~/c/seek-theme:/var/lib/ghost/content/themes/seek'
 
   nginx:
     image: nginx
