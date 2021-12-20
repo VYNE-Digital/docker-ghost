@@ -21,11 +21,7 @@ source $ENV_FILE
 
 echo "Deploying Ghost with the following configuration:"
 echo "Blog URL: $BLOG_URL"
-echo "MySQL user password: $MYSQL_PASSWORD"
-echo "MySQL root password: $MYSQL_ROOT_PASSWORD"
 echo "Ghost host data folder: $GHOST_HOST_PATH"
-echo "MySQL host data folder: $MYSQL_HOST_PATH"
-echo "Nginx host config folder: $NGINX_HOST_PATH"
 echo "HTTP port: $NGINX_HTTP_PORT"
 echo "HTTPS port: $NGINX_HTTPS_PORT"
 
@@ -37,14 +33,6 @@ then
   exit 1
 fi
 
-echo "Creating host folders..."
-mkdir -p $GHOST_HOST_PATH
-mkdir -p $MYSQL_HOST_PATH
-if [[ ! -d $NGINX_HOST_PATH ]]
-then
-  # Copy default nginx configuration
-  cp -r nginx/ $NGINX_HOST_PATH
-fi    
 echo "Deploying..."
 pushd blog/ > /dev/null
-docker-compose up -d
+docker compose up -d

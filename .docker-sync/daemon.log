@@ -1,0 +1,924 @@
+          ok  Starting unison for sync ghosttheme-sync
+          ok  ghosttheme-sync container still running, restarting unison in container
+          ok  Synced /Users/zac/c/seek-theme
+     success  Unison server started
+          ok  Synced /Users/zac/c/seek-theme
+Unison 2.51.5 (ocaml 4.12.0): Contacting server...
+Connected [//4bf5c40d9b55//app_sync -> //The-dancer-who-flips-burgers.local//Users/zac/c/seek-theme]
+ 
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 09:09:23.10 on 21 Dec 2021
+[BGN] Updating file assets/built/infinitescroll.js from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file assets/built/infinitescroll.js
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 09:09:23.12 on 21 Dec 2021, 0.024 s
+Saving synchronizer state
+Synchronization complete at 09:09:23  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 09:09:24.14 on 21 Dec 2021
+[BGN] Updating file assets/built/infinitescroll.js from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file assets/built/infinitescroll.js
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 09:09:24.16 on 21 Dec 2021, 0.015 s
+Saving synchronizer state
+Synchronization complete at 09:09:24  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 09:11:11.16 on 21 Dec 2021
+[BGN] Updating file default.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file default.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 09:11:11.21 on 21 Dec 2021, 0.046 s
+Saving synchronizer state
+Synchronization complete at 09:11:11  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 09:12:54.47 on 21 Dec 2021
+[BGN] Updating file default.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file default.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 09:12:54.50 on 21 Dec 2021, 0.032 s
+Saving synchronizer state
+Synchronization complete at 09:12:54  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 09:13:24.51 on 21 Dec 2021
+[BGN] Updating file default.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file default.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 09:13:24.54 on 21 Dec 2021, 0.029 s
+Saving synchronizer state
+Synchronization complete at 09:13:24  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 09:15:54.34 on 21 Dec 2021
+[BGN] Updating file default.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file default.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 09:15:54.38 on 21 Dec 2021, 0.038 s
+Saving synchronizer state
+Synchronization complete at 09:15:54  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 10:26:12.53 on 21 Dec 2021
+[BGN] Copying partials/footer.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Copying partials/footer.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 10:26:12.55 on 21 Dec 2021, 0.022 s
+Saving synchronizer state
+Synchronization complete at 10:26:12  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 10:26:13.59 on 21 Dec 2021
+[BGN] Updating file .git/index from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying .git/objects/e6 from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file .git/index
+[END] Copying .git/objects/e6
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 10:26:13.62 on 21 Dec 2021, 0.036 s
+Saving synchronizer state
+Synchronization complete at 10:26:13  (2 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 10:26:53.66 on 21 Dec 2021
+[BGN] Updating file partials/footer.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file partials/footer.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 10:26:53.68 on 21 Dec 2021, 0.024 s
+Saving synchronizer state
+Synchronization complete at 10:26:53  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 10:27:13.92 on 21 Dec 2021
+[BGN] Updating file partials/footer.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file partials/footer.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 10:27:13.95 on 21 Dec 2021, 0.024 s
+Saving synchronizer state
+Synchronization complete at 10:27:13  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 10:27:59.09 on 21 Dec 2021
+[BGN] Updating file default.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file default.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 10:27:59.10 on 21 Dec 2021, 0.014 s
+Saving synchronizer state
+Synchronization complete at 10:27:59  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 10:28:01.14 on 21 Dec 2021
+[BGN] Updating file default.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file default.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 10:28:01.16 on 21 Dec 2021, 0.014 s
+Saving synchronizer state
+Synchronization complete at 10:28:01  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 10:28:23.00 on 21 Dec 2021
+[BGN] Updating file assets/css/screen.css from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file assets/css/screen.css
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 10:28:23.03 on 21 Dec 2021, 0.039 s
+Saving synchronizer state
+Synchronization complete at 10:28:23  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 10:28:24.07 on 21 Dec 2021
+[BGN] Updating file assets/built/screen.css.map from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file assets/built/screen.css.map
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 10:28:24.10 on 21 Dec 2021, 0.027 s
+Saving synchronizer state
+Synchronization complete at 10:28:24  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 10:29:28.38 on 21 Dec 2021
+[BGN] Updating file default.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file default.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 10:29:28.41 on 21 Dec 2021, 0.033 s
+Saving synchronizer state
+Synchronization complete at 10:29:28  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 10:29:52.21 on 21 Dec 2021
+[BGN] Updating file default.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file default.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 10:29:52.23 on 21 Dec 2021, 0.019 s
+Saving synchronizer state
+Synchronization complete at 10:29:52  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 10:41:29.06 on 21 Dec 2021
+[BGN] Updating file index.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Updating file partials/card.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file index.hbs
+[END] Updating file partials/card.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 10:41:29.07 on 21 Dec 2021, 0.013 s
+Saving synchronizer state
+Synchronization complete at 10:41:29  (2 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 10:44:29.83 on 21 Dec 2021
+[BGN] Updating file index.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file index.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 10:44:29.85 on 21 Dec 2021, 0.027 s
+Saving synchronizer state
+Synchronization complete at 10:44:29  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 10:44:39.72 on 21 Dec 2021
+[BGN] Updating file partials/card.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file partials/card.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 10:44:39.74 on 21 Dec 2021, 0.021 s
+Saving synchronizer state
+Synchronization complete at 10:44:39  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 10:45:55.36 on 21 Dec 2021
+[BGN] Updating file partials/card.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file partials/card.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 10:45:55.39 on 21 Dec 2021, 0.027 s
+Saving synchronizer state
+Synchronization complete at 10:45:55  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 10:47:54.46 on 21 Dec 2021
+[BGN] Updating file partials/card.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file partials/card.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 10:47:54.50 on 21 Dec 2021, 0.033 s
+Saving synchronizer state
+Synchronization complete at 10:47:54  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 10:50:05.08 on 21 Dec 2021
+[BGN] Updating file partials/card.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file partials/card.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 10:50:05.09 on 21 Dec 2021, 0.013 s
+Saving synchronizer state
+Synchronization complete at 10:50:05  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 10:53:24.72 on 21 Dec 2021
+[BGN] Updating file partials/card.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file partials/card.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 10:53:24.74 on 21 Dec 2021, 0.024 s
+Saving synchronizer state
+Synchronization complete at 10:53:24  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:09:48.36 on 21 Dec 2021
+[BGN] Updating file partials/card.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file partials/card.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:09:48.39 on 21 Dec 2021, 0.026 s
+Saving synchronizer state
+Synchronization complete at 11:09:48  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:19:49.67 on 21 Dec 2021
+[BGN] Updating file post.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file post.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:19:49.73 on 21 Dec 2021, 0.061 s
+Saving synchronizer state
+Synchronization complete at 11:19:49  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:24:09.49 on 21 Dec 2021
+[BGN] Updating file post.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file post.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:24:09.51 on 21 Dec 2021, 0.023 s
+Saving synchronizer state
+Synchronization complete at 11:24:09  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:24:18.96 on 21 Dec 2021
+[BGN] Updating file post.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file post.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:24:18.99 on 21 Dec 2021, 0.031 s
+Saving synchronizer state
+Synchronization complete at 11:24:19  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:24:47.63 on 21 Dec 2021
+[BGN] Updating file post.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file post.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:24:47.66 on 21 Dec 2021, 0.030 s
+Saving synchronizer state
+Synchronization complete at 11:24:47  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:25:04.56 on 21 Dec 2021
+[BGN] Updating file post.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file post.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:25:04.58 on 21 Dec 2021, 0.029 s
+Saving synchronizer state
+Synchronization complete at 11:25:04  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:25:13.09 on 21 Dec 2021
+[BGN] Updating file post.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file post.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:25:13.11 on 21 Dec 2021, 0.019 s
+Saving synchronizer state
+Synchronization complete at 11:25:13  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:25:35.33 on 21 Dec 2021
+[BGN] Updating file post.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file post.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:25:35.36 on 21 Dec 2021, 0.029 s
+Saving synchronizer state
+Synchronization complete at 11:25:35  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:25:56.71 on 21 Dec 2021
+[BGN] Updating file post.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file post.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:25:56.73 on 21 Dec 2021, 0.024 s
+Saving synchronizer state
+Synchronization complete at 11:25:56  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:26:37.06 on 21 Dec 2021
+[BGN] Updating file post.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file post.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:26:37.08 on 21 Dec 2021, 0.025 s
+Saving synchronizer state
+Synchronization complete at 11:26:37  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:27:10.70 on 21 Dec 2021
+[BGN] Updating file post.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file post.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:27:10.73 on 21 Dec 2021, 0.030 s
+Saving synchronizer state
+Synchronization complete at 11:27:10  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:30:04.33 on 21 Dec 2021
+[BGN] Updating file .idea/seek-theme.iml from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file .idea/seek-theme.iml
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:30:04.35 on 21 Dec 2021, 0.019 s
+Saving synchronizer state
+Synchronization complete at 11:30:04  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:36:49.71 on 21 Dec 2021
+[BGN] Updating file .idea/seek-theme.iml from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Updating file partials/footer.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file .idea/seek-theme.iml
+[END] Updating file partials/footer.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:36:49.75 on 21 Dec 2021, 0.039 s
+Saving synchronizer state
+Synchronization complete at 11:36:49  (2 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:36:57.37 on 21 Dec 2021
+[BGN] Updating file partials/footer.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file partials/footer.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:36:57.40 on 21 Dec 2021, 0.024 s
+Saving synchronizer state
+Synchronization complete at 11:36:57  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:38:58.96 on 21 Dec 2021
+[BGN] Copying assets/css/materialdesignicons.min.css from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying assets/css/materialdesignicons.min.css.map from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Copying assets/css/materialdesignicons.min.css
+[END] Copying assets/css/materialdesignicons.min.css.map
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:38:59.02 on 21 Dec 2021, 0.062 s
+Saving synchronizer state
+Synchronization complete at 11:38:59  (2 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:39:00.04 on 21 Dec 2021
+[BGN] Updating file .git/index from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying .git/objects/85 from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying .git/objects/9a from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file .git/index
+[END] Copying .git/objects/85
+[END] Copying .git/objects/9a
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:39:00.08 on 21 Dec 2021, 0.045 s
+Saving synchronizer state
+Synchronization complete at 11:39:00  (3 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:39:01.12 on 21 Dec 2021
+[BGN] Copying assets/built/materialdesignicons.min.css from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying assets/built/materialdesignicons.min.css.map from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Copying assets/built/materialdesignicons.min.css
+[END] Copying assets/built/materialdesignicons.min.css.map
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:39:01.18 on 21 Dec 2021, 0.067 s
+Saving synchronizer state
+Synchronization complete at 11:39:01  (2 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:39:14.48 on 21 Dec 2021
+[BGN] Updating file .git/index from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying assets/css/materialdesignicons.css from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying assets/css/materialdesignicons.css.map from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+Shortcut: copied /app_sync/assets/css/materialdesignicons.css from local file /app_sync/assets/css/materialdesignicons.min.css
+Shortcut: copied /app_sync/assets/css/materialdesignicons.css.map from local file /app_sync/assets/css/materialdesignicons.min.css.map
+[END] Copying assets/css/materialdesignicons.css
+[END] Copying assets/css/materialdesignicons.css.map
+[END] Updating file .git/index
+[BGN] Deleting assets/css/materialdesignicons.min.css from //4bf5c40d9b55//app_sync
+[BGN] Deleting assets/css/materialdesignicons.min.css.map from //4bf5c40d9b55//app_sync
+[END] Deleting assets/css/materialdesignicons.min.css
+[END] Deleting assets/css/materialdesignicons.min.css.map
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:39:14.54 on 21 Dec 2021, 0.062 s
+Saving synchronizer state
+Synchronization complete at 11:39:14  (5 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:39:16.61 on 21 Dec 2021
+[BGN] Copying assets/built/materialdesignicons.css from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying assets/built/materialdesignicons.css.map from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Copying assets/built/materialdesignicons.css
+[END] Copying assets/built/materialdesignicons.css.map
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:39:16.68 on 21 Dec 2021, 0.072 s
+Saving synchronizer state
+Synchronization complete at 11:39:16  (2 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:39:32.26 on 21 Dec 2021
+[BGN] Copying assets/fonts from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Copying assets/fonts
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:39:32.27 on 21 Dec 2021, 0.010 s
+Saving synchronizer state
+Synchronization complete at 11:39:32  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:39:34.31 on 21 Dec 2021
+[BGN] Updating file assets/css/materialdesignicons.css from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file assets/css/materialdesignicons.css
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:39:34.35 on 21 Dec 2021, 0.040 s
+Saving synchronizer state
+Synchronization complete at 11:39:34  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:39:36.46 on 21 Dec 2021
+[BGN] Updating file assets/built/materialdesignicons.css from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Updating file assets/built/materialdesignicons.css.map from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file assets/built/materialdesignicons.css
+[END] Updating file assets/built/materialdesignicons.css.map
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:39:36.53 on 21 Dec 2021, 0.072 s
+Saving synchronizer state
+Synchronization complete at 11:39:36  (2 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:39:51.84 on 21 Dec 2021
+[BGN] Copying assets/fonts/ajax-loader.gif from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying assets/fonts/materialdesignicons-webfont.eot from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying assets/fonts/materialdesignicons-webfont.svg from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying assets/fonts/materialdesignicons-webfont.ttf from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying assets/fonts/materialdesignicons-webfont.woff from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying assets/fonts/materialdesignicons-webfont.woff2 from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Copying assets/fonts/ajax-loader.gif
+[END] Copying assets/fonts/materialdesignicons-webfont.eot
+[END] Copying assets/fonts/materialdesignicons-webfont.svg
+[END] Copying assets/fonts/materialdesignicons-webfont.ttf
+[END] Copying assets/fonts/materialdesignicons-webfont.woff
+[END] Copying assets/fonts/materialdesignicons-webfont.woff2
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:39:52.08 on 21 Dec 2021, 0.240 s
+Saving synchronizer state
+Synchronization complete at 11:39:52  (6 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:40:56.82 on 21 Dec 2021
+[BGN] Updating file assets/css/materialdesignicons.css from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file assets/css/materialdesignicons.css
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:40:56.86 on 21 Dec 2021, 0.040 s
+Saving synchronizer state
+Synchronization complete at 11:40:56  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:40:58.88 on 21 Dec 2021
+[BGN] Updating file assets/built/materialdesignicons.css from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Updating file assets/built/materialdesignicons.css.map from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file assets/built/materialdesignicons.css
+[END] Updating file assets/built/materialdesignicons.css.map
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:40:58.96 on 21 Dec 2021, 0.079 s
+Saving synchronizer state
+Synchronization complete at 11:40:58  (2 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:41:24.13 on 21 Dec 2021
+[BGN] Updating file assets/css/materialdesignicons.css from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file assets/css/materialdesignicons.css
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:41:24.16 on 21 Dec 2021, 0.027 s
+Saving synchronizer state
+Synchronization complete at 11:41:24  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:41:26.20 on 21 Dec 2021
+[BGN] Updating file assets/built/materialdesignicons.css from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Updating file assets/built/materialdesignicons.css.map from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file assets/built/materialdesignicons.css
+[END] Updating file assets/built/materialdesignicons.css.map
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:41:26.27 on 21 Dec 2021, 0.073 s
+Saving synchronizer state
+Synchronization complete at 11:41:26  (2 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:42:11.09 on 21 Dec 2021
+[BGN] Updating file default.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file default.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:42:11.13 on 21 Dec 2021, 0.039 s
+Saving synchronizer state
+Synchronization complete at 11:42:11  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:42:32.82 on 21 Dec 2021
+[BGN] Updating file default.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file default.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:42:32.85 on 21 Dec 2021, 0.029 s
+Saving synchronizer state
+Synchronization complete at 11:42:32  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:45:25.78 on 21 Dec 2021
+[BGN] Updating file assets/css/vars.css from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file assets/css/vars.css
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:45:25.80 on 21 Dec 2021, 0.018 s
+Saving synchronizer state
+Synchronization complete at 11:45:25  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:45:26.84 on 21 Dec 2021
+[BGN] Updating file assets/built/vars.css from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Updating file assets/built/vars.css.map from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file assets/built/vars.css
+[END] Updating file assets/built/vars.css.map
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:45:26.87 on 21 Dec 2021, 0.033 s
+Saving synchronizer state
+Synchronization complete at 11:45:26  (2 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:46:43.93 on 21 Dec 2021
+[BGN] Updating file default.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file default.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:46:43.97 on 21 Dec 2021, 0.044 s
+Saving synchronizer state
+Synchronization complete at 11:46:43  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 11:48:39.12 on 21 Dec 2021
+[BGN] Updating file default.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file default.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 11:48:39.15 on 21 Dec 2021, 0.027 s
+Saving synchronizer state
+Synchronization complete at 11:48:39  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 12:09:33.44 on 21 Dec 2021
+[BGN] Copying assets/images from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Copying assets/images
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 12:09:33.45 on 21 Dec 2021, 0.009 s
+Saving synchronizer state
+Synchronization complete at 12:09:33  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 12:10:02.25 on 21 Dec 2021
+[BGN] Copying assets/images/american-ex.png from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying assets/images/discover.png from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying assets/images/master-card.png from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying assets/images/paypal.png from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying assets/images/visa.png from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Copying assets/images/american-ex.png
+[END] Copying assets/images/discover.png
+[END] Copying assets/images/master-card.png
+[END] Copying assets/images/paypal.png
+[END] Copying assets/images/visa.png
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 12:10:02.27 on 21 Dec 2021, 0.022 s
+Saving synchronizer state
+Synchronization complete at 12:10:02  (5 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 12:10:05.52 on 21 Dec 2021
+[BGN] Updating file .git/index from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying .git/objects/06 from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying .git/objects/07 from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying .git/objects/22 from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying .git/objects/4a from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying .git/objects/6c from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file .git/index
+[END] Copying .git/objects/06
+[END] Copying .git/objects/07
+[END] Copying .git/objects/22
+[END] Copying .git/objects/4a
+[END] Copying .git/objects/6c
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 12:10:05.58 on 21 Dec 2021, 0.056 s
+Saving synchronizer state
+Synchronization complete at 12:10:05  (6 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 12:11:02.52 on 21 Dec 2021
+[BGN] Updating file partials/footer.hbs from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file partials/footer.hbs
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 12:11:02.55 on 21 Dec 2021, 0.039 s
+Saving synchronizer state
+Synchronization complete at 12:11:02  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+Unison 2.51.5 (ocaml 4.12.0) started propagating changes at 12:11:35.25 on 21 Dec 2021
+[BGN] Updating file .git/index from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying .git/objects/4d from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying .git/objects/79 from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying .git/objects/86 from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying .git/objects/8a from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying .git/objects/a2 from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying .git/objects/cb from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying .git/objects/d0 from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying .git/objects/e0 from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying .git/objects/e1 from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[BGN] Copying .git/objects/e5 from /Users/zac/c/seek-theme to //4bf5c40d9b55//app_sync
+[END] Updating file .git/index
+[END] Copying .git/objects/4d
+[END] Copying .git/objects/79
+[END] Copying .git/objects/86
+[END] Copying .git/objects/8a
+[END] Copying .git/objects/a2
+[END] Copying .git/objects/cb
+[END] Copying .git/objects/e0
+[END] Copying .git/objects/d0
+[END] Copying .git/objects/e5
+[END] Copying .git/objects/e1
+Unison 2.51.5 (ocaml 4.12.0) finished propagating changes at 12:11:35.44 on 21 Dec 2021, 0.189 s
+Saving synchronizer state
+Synchronization complete at 12:11:35  (11 items transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.

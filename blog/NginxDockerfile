@@ -1,0 +1,2 @@
+FROM nginx:latest
+COPY ../local/nginx/blog.conf /etc/nginx/conf.d/blog.conf

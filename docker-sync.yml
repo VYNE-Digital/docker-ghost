@@ -1,0 +1,5 @@
+version: "2"
+syncs:
+  ghosttheme-sync:
+    src: '~/c/seek-theme'
+    sync_excludes: ['node_modules']
