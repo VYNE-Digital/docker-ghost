@@ -35,4 +35,4 @@ fi
 
 echo "Deploying..."
 pushd blog/ > /dev/null
-docker compose up -f blog/docker-compose.yaml -f blog/docker-compose-dev.yaml -d
+docker compose up -f blog/docker-compose.yaml -d
